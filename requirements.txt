@@ -1,0 +1,1 @@
+Acest program are nevoie doar de biblioteca standard.
